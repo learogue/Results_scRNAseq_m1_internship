@@ -6,4 +6,6 @@ I use https://github.com/learogue/scRNAseq_project to construct a standard and t
 
 In `Results_standard`, there is plots on quality and filters of datasets. I can't put datas because of size. And there is also a jupyter notebook on the analysis of this standard with UMAP's, Volcano plot and differential expression of genes.
 
-In `Results_EBs`, there is results of analysis embryoid bodies.
+In `Results_EBs`, there is results of analysis with embryoid bodies. This embryoid bodies are different because of the inudction : pharmacologically or genetically.
+
+In `Appendix_scripts`, there are others scripts that I made to create plots.
