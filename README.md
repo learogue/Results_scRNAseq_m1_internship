@@ -9,3 +9,9 @@ In `Results_standard`, there is plots on quality and filters of datasets. I can'
 In `Results_EBs`, there is results of analysis with embryoid bodies. This embryoid bodies are different because of the inudction : pharmacologically or genetically.
 
 In `Appendix_scripts`, there are others scripts that I made to create plots.
+
+# References
+
+References of the data that I used.
+
+
