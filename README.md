@@ -22,7 +22,7 @@ Mohammed, H., Hernando-Herraez, I., Savino, A., Scialdone, A., Macaulay, I., Mul
 
 Nowotschin, S., Setty, M., Kuo, Y.-Y., Liu, V., Garg, V., Sharma, R., Simon, C.S., Saiz, N., Gardner, R., Boutet, S.C., et al. (2019). The emergent landscape of the mouse gut endoderm at single-cell resolution. Nature 569, 361–367. https://doi.org/10.1038/s41586-019-1127-1.
 
-Posfai, E., Schell, J.P., Janiszewski, A., Rovic, I., Murray, A., Bradshaw, B., Pardon, T., Bakkali, M.E., Talon, I., and Rossant, J. Defining totipotency using criteria of increasing stringency. https://doi.org/10.1101/2020.03.02.972893
+Posfai, E., Schell, J.P., Janiszewski, A., Rovic, I., Murray, A., Bradshaw, B., Pardon, T., Bakkali, M.E., Talon, I., and Rossant, J (2020). Defining totipotency using criteria of increasing stringency. BioRxiv. https://doi.org/10.1101/2020.03.02.972893
 
 Argelaguet, R., Clark, S.J., Mohammed, H., Stapel, L.C., Krueger, C., Kapourani, C.-A., Imaz-Rosshandler, I., Lohoff, T., Xiang, Y., Hanna, C.W., et al. (2019). Multi-omics profiling of mouse gastrulation at single-cell resolution. Nature 576, 487–491. https://doi.org/10.1038/s41586-019-1825-8.
 
